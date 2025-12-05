@@ -1,0 +1,8 @@
+{
+  "name": "WashBay Pro",
+  "description": "Professional Car Wash & Valeting Management System for Ghana. Manage jobs, sales, staff, and loyalty programs efficiently.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
